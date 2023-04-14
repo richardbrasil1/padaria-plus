@@ -1,2 +1,2 @@
 # padaria-plus
-projeto de uma padaria pra estudo de estilização CSS usando seletores
+Projeto de uma padaria pra estudo de estilização CSS usando seletores
